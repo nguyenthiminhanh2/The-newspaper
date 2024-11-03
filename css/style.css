@@ -1,0 +1,12 @@
+
+.custom-line{
+    border: none;
+    border-top: 1px solid_#ddd; /* Adjust color here */
+    width: 90%; /* Adjust width here */
+    margin: 20px auto; /* Center and add space above/below */
+}
+
+.art-week-img {
+    width: 100px;
+    height: 100px;
+}
